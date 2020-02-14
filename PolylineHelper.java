@@ -2,6 +2,8 @@
 import java.util.ArrayList;
 import java.util.List;
 
+// @todo needs tweaks for specifying lon/lat order and precision
+// current order is lat/lon
 // can decode a polyline string with a precision of 6 decimals to PolygonPoints
 // can encode PolygonPoints to a polyline string with a precision of 6 decimals
 public class PolylineHelper {
