@@ -2,8 +2,8 @@
 import java.util.ArrayList;
 import java.util.List;
 
-// can encode a polyline string with a precision of 6 decimals to PolygonPoints
-// can decode PolygonPoints to a polyline string with a precision of 6 decimals
+// can decode a polyline string with a precision of 6 decimals to PolygonPoints
+// can encode PolygonPoints to a polyline string with a precision of 6 decimals
 public class PolylineHelper {
 
   // char area goes from 0x0 to 0x3e
